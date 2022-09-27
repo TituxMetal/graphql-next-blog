@@ -19,7 +19,7 @@
     "react-dom": "18.2.0",
     "react-hook-form": "7.36.1",
     "sharp": "0.31.0",
-    "styled-components": "5.3.5"
+    "styled-components": "5.3.6"
   },
   "devDependencies": {
     "autoprefixer": "10.4.12",
